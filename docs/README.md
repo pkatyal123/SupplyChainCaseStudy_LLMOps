@@ -1,4 +1,4 @@
-# Supply Chain LLMOps Case Study
+# Supply Chain LLMOps Case Study - modified
 
 This project implements an AI-driven Natural Language Interface for querying supply chain data.
 

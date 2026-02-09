@@ -1,6 +1,7 @@
 # Supply Chain LLMOps Case Study 🚛📦
 
 An AI-driven Natural Language Interface for querying supply chain data, demonstrating advanced LLMOps practices including RAG, Code Generation (Python/SQL), LLM-as-a-judge evaluation, and Infra-as-Code.
+Modifed
 
 ## 🌟 Key Features
 - **Natural Language Querying**: Ask questions about orders, risk, and financials in plain English.
